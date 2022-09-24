@@ -3,7 +3,9 @@ import { View } from 'react-native'
 
 function Documents() {
   return (
-    <View></View>
+    <View>
+      
+    </View>
   )
 }
 
